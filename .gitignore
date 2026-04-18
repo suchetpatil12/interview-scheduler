@@ -1,0 +1,20 @@
+# Maven
+target/
+
+# IDE
+.idea/
+.settings/
+*.iml
+
+# Logs
+*.log
+
+# Build files
+*.class
+*.jar
+
+# OS files
+.DS_Store
+
+# Sensitive files
+application.properties
